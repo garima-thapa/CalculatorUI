@@ -1,5 +1,13 @@
-This is a basic calculator built in Java. It supports addition, subtraction, multiplication, and division.
+This is a basic calculator built in Java and Python. It supports addition, subtraction, multiplication, and division.
+
+links to the code 
+
+- [calculator-java](CalculatorUI.java)
+- [calculator-python](calculator.py)
 
 Here’s what my calculator looks like:
+In java:
+![Calculator screenshot](calcJ.png)
 
-![Calculator screenshot](calc.png)
+In python:
+![Calculator screenshot](calcP.png)
