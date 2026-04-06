@@ -1,4 +1,4 @@
-This is a basic calculator built in Java and Python. It supports addition, subtraction, multiplication, and division.
+This is a basic calculator built in Java and Python each. It supports addition, subtraction, multiplication, and division.
 
 links to the code 
 
